@@ -9,17 +9,18 @@ This repository contains code and notes from my journey of learning the Go progr
 Introduction: A brief introduction to the repository and its purpose.
 Getting Started: Instructions on setting up the Go environment, installation, and project structure.
 Chapters: Each chapter of "The Go Programming Language" book corresponds to a separate directory in this repository. Each directory contains code examples, exercises, and notes specific to that chapter.
-Chapter 1: Tutorial
-Chapter 2: Program Structure
-Chapter 3: Basic Data Types
-Chapter 4: Composite Types
-Chapter 5: Functions
-Chapter 6: Methods
-Chapter 7: Interfaces
-Chapter 8: Goroutines and Channels
-Chapter 9: Concurrency with Share Variables
-Chapter 10: Packages and the Go Tool
-Chapter 11: Testing
-Chapter 12: Reflection
-Chapter 13: Low-level programming
+
+- Chapter 1: Tutorial
+- Chapter 2: Program Structure
+- Chapter 3: Basic Data Types
+- Chapter 4: Composite Types
+- Chapter 5: Functions
+- Chapter 6: Methods
+- Chapter 7: Interfaces
+- Chapter 8: Goroutines and Channels
+- Chapter 9: Concurrency with Share Variables
+- Chapter 10: Packages and the Go Tool
+- Chapter 11: Testing
+- Chapter 12: Reflection
+- Chapter 13: Low-level programming
 
